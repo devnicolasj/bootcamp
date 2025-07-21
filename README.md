@@ -1,2 +1,2 @@
 # bootcamp
-Ejercicios de los cursos de OpenBootCamp
+Ejercicios del curso Java Master en Udemy
